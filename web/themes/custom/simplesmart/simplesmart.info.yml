@@ -4,3 +4,10 @@ description: "A sleek & practical theme for curious minds."
 core_version_requirement: ^9 || ^10
 base theme: stable9
 screenshot: simplesmartscreenshot.png
+regions:
+  header: header
+  simplesmartmenu: Navigation
+  content: content
+  footer: Footer
+  page_top: Page top
+  page_bottom: Page bottom
